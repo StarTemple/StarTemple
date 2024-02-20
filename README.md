@@ -1,8 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nejma Nefertiti's GitHub Repository</title>
+<title>Nejma Nefertiti's GitHub Repository</title>
 </head>
 <body>
     <div>
