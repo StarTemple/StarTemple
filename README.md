@@ -1,7 +1,4 @@
-
-    <title>My GitHub Repository</title>
-    <style>
-        h1 {
+h1 {
             font-size: 36px; /* Adjust the font size as needed */
         }
     </style>
