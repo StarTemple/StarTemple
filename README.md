@@ -1,4 +1,4 @@
-##</head>
+</head>
 <body>
     <div>
         <p>👋 Hello! Welcome to my GitHub repository!</p>
