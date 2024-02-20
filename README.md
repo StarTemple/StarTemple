@@ -1,4 +1,3 @@
-<title>Nejma Nefertiti's GitHub Repository</title>
 </head>
 <body>
     <div>
