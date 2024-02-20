@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Repository</title>
+    <style>
+        body {
+            background-image: url('your-background-image-url.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        
+        /* Additional CSS styles for the content */
+        h1 {
+            font-size: 36px; /* Adjust the font size as needed */
+        }
+        strong {
+            font-weight: bold;
+        }
+        em {
+            font-style: italic;
+        }
+    </style>
 </head>
 <body>
     <div>
