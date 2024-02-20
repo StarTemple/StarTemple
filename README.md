@@ -1,10 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Repository</title>
-    <style>
-        h1 {
+h1 {
             font-size: 36px; /* Adjust the font size as needed */
         }
         strong {
