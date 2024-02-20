@@ -1,7 +1,4 @@
-h1 {
-            font-size: 36px; /* Adjust the font size as needed */
-        }
-    </style>
+</style>
 </head>
 <body>
     <div>
