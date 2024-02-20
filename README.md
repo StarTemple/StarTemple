@@ -10,4 +10,4 @@ I'm **Nejma Nefertiti**, an *emerging* software engineer with a passion for codi
 
 🚀 I'm highly fascinated by the prospects and potential on the horizon, along with the opportunity to create positive change through technology. I'm eager to engage with and cooperate alongside my fellow programmers in order to achieve our collective goals.
 
-🔗 Let's Connect on [LinkedIn]((https://www.linkedin.com/in/nejma-nefertiti/)
+🔗 Let's Connect on [LinkedIn](https://www.linkedin.com/in/nejma-nefertiti/)
