@@ -1,4 +1,4 @@
-<body style="background-image: url('https://www.freepik.com/free-vector/binary-code-pattern-dark-blue-background_16342958.htm#query=programmer%20background&position=0&from_view=keyword&track=ais&uuid=83b9e5ba-c5c7-4950-8a00-39ac79108583')> </body>
+<body style="background-image: url('https://www.freepik.com/free-vector/binary-code-pattern-dark-blue-background_16342958.htm#query=programmer%20background&position=0&from_view=keyword&track=ais&uuid=83b9e5ba-c5c7-4950-8a00-39ac79108583')"> </body>
 <h1>👋 Hello! Welcome to my GitHub repository!</h1>
         
         <h2>About Me</h2>
