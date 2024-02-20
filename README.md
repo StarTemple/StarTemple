@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nejma Nefertiti's GitHub Repository</title>
-</head>
-<body>
-    <div>
-        <h1>👋 Hello! Welcome to my GitHub repository!</h1>
+<h1>👋 Hello! Welcome to my GitHub repository!</h1>
         
         <h2>About Me</h2>
         <p>I'm Nejma Nefertiti, an emerging software engineer with a passion for coding and social justice. Currently, I'm taking my first steps into the tech world through The Foundation course at Columbia University's Justice Through Code (JTC) program.</p>
@@ -27,6 +18,3 @@
         
         <h2>Let's Connect</h2>
         <p>🔗 Let's Connect on <a href="https://www.linkedin.com/in/nejma-nefertiti">LinkedIn</a></p>
-    </div>
-</body>
-</html>
