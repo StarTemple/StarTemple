@@ -1,6 +1,6 @@
 # Nejma Nefertiti's GitHub Repository
 
-<img src="https://images.app.goo.gl/vb8v9Sfyka6KkS3q9.jpg" alt="Nejma Nefertiti">
+<img src="https://images.app.goo.gl/vb8v9Sfyka6KkS3q9.jpg">
 
 👋 Hello! Welcome to my GitHub repository!
 
