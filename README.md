@@ -1,13 +1,3 @@
-h1 {
-            font-size: 36px; /* Adjust the font size as needed */
-        }
-        strong {
-            font-weight: bold;
-        }
-        em {
-            font-style: italic;
-        }
-    </style>
 </head>
 <body>
     <div>
