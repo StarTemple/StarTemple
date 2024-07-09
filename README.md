@@ -1,5 +1,5 @@
 👋 **Hello! Welcome to my GitHub repository!**
 
-I'm **Nejma Nefertiti,** an emerging software engineer with a *passion for coding and social justice.* Currently, I'm taking my next steps into the tech world through Tech Pathways at Columbia University's Justice Through Code (JTC) program.
+I'm **Nejma Nefertiti,** a junior developer with a *passion for coding and social justice.* Currently, I'm taking my next steps into the tech world through Tech Pathways at Columbia University's Justice Through Code (JTC) program.
 
 🔗 Let's Connect on [**LinkedIn**](https://www.linkedin.com/in/nejma-nefertiti)
